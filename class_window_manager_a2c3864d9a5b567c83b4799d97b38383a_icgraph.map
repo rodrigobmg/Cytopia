@@ -1,0 +1,45 @@
+<map id="WindowManager::setWindowTitle" name="WindowManager::setWindowTitle">
+<area shape="rect" id="node2" href="$class_window_manager.html#a18bfae3e2d227c6a673fd5299abc9c4e" title="Retrieves instance of Singleton class WindowManager. " alt="" coords="253,145,440,172"/>
+<area shape="rect" id="node6" href="$game_8hxx.html#a13a43e6d814de94978c515cb084873b1" title="run" alt="" coords="2610,220,2653,247"/>
+<area shape="rect" id="node3" href="$class_engine.html#aed0b02ad4a43a8fc71b4084a2b45b612" title="Engine::toggleFullScreen" alt="" coords="1817,116,1996,143"/>
+<area shape="rect" id="node8" href="$class_resources_manager.html#ad84710588e607e440931c6956a14aac7" title="ResourcesManager::getTile\lSurface" alt="" coords="496,167,689,209"/>
+<area shape="rect" id="node43" href="$class_sprite.html#aff433fc35fa9259b5020858cc9749c7c" title="Sprite::render" alt="" coords="537,233,648,260"/>
+<area shape="rect" id="node44" href="$class_ui_element.html#a1a6a2836ca2e8c8bcac47ff51f61ec8a" title="UiElement::drawImageButton\lFrame" alt="" coords="488,285,697,326"/>
+<area shape="rect" id="node4" href="$class_engine.html#a1261654b687459f800f1a71b2186eef5" title="Toggle Drawing Layer Toggle Drawing Layer (use bitwise XOR to toggle layer) " alt="" coords="2069,195,2217,221"/>
+<area shape="rect" id="node5" href="$class_event_manager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="2265,220,2468,247"/>
+<area shape="rect" id="node7" href="$main_8cxx.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="2795,220,2849,247"/>
+<area shape="rect" id="node9" href="$class_map.html#a153add29eff64eff309ecf1dd4b49ae4" title="Map::demolishNode" alt="" coords="1035,233,1184,260"/>
+<area shape="rect" id="node15" href="$class_resources_manager.html#a07675a89e82b607b0f001ff9eedaa3ae" title="Retrieves instance of Singleton class Texture Manager. " alt="" coords="745,917,951,944"/>
+<area shape="rect" id="node10" href="$class_engine.html#a8ea1dc4f854268d57992b60e0fe70e02" title="Engine::demolishNode" alt="" coords="1824,183,1989,209"/>
+<area shape="rect" id="node11" href="$class_map.html#aba5154a4d917900679a3c0f7ec701561" title="Increase Height Increases the height of the node and checks the surrounding tiles. Either draw a slope sprite or elevate the tile if necessary. " alt="" coords="1309,233,1463,260"/>
+<area shape="rect" id="node13" href="$class_map.html#afb8cc864df90d273a5074872d635dc40" title="Decrease Height Decreases the height of the node and checks the surrounding tiles. Either draw a slope sprite or lower the tile if necessary. " alt="" coords="1569,284,1727,311"/>
+<area shape="rect" id="node12" href="$class_engine.html#a2563e43f253f9de4c55544feba416518" title="Increase Height Increases the height of the given map node Calls the according function of the Map ob..." alt="" coords="1822,233,1991,260"/>
+<area shape="rect" id="node14" href="$class_engine.html#a64d67ab7a504b26fb7f7efca7abf3968" title="Decrease Height Decreases the height of the given map node Calls the according function of the Map ob..." alt="" coords="1819,284,1994,311"/>
+<area shape="rect" id="node16" href="$class_tile_manager.html#ae7bf5bfda38b510178f884ed2ba14a4f" title="TileManager::getTexture" alt="" coords="1022,1005,1197,1032"/>
+<area shape="rect" id="node20" href="$class_tile_manager.html#a1575d9a9530e13fe0286b8fece9e47ea" title="TileManager::init" alt="" coords="1046,1119,1173,1145"/>
+<area shape="rect" id="node21" href="$class_ui_element.html#a3206ae575c2eea154f4ee89564741507" title="Set the uiElements sprite ID Set the sprite ID this ui element. The texture will be retrieved from th..." alt="" coords="1022,1201,1197,1228"/>
+<area shape="rect" id="node23" href="$class_ui_element.html#a89b21886d48f2d4fd497563371c20b47" title="Set the button state Sets the mouse button pressed state. " alt="" coords="999,828,1220,855"/>
+<area shape="rect" id="node17" href="$class_tile_manager.html#a65e916d2e14c8c1675fc70facd71cd0e" title="Retrieves instance of Singleton class TileManager. " alt="" coords="1305,1183,1467,1209"/>
+<area shape="rect" id="node18" href="$class_map_node.html#a397a62e9263feef6c9c85b4e17ef31cb" title="MapNode::setTileID" alt="" coords="1575,1183,1721,1209"/>
+<area shape="rect" id="node19" href="$class_map_node.html#ada85d1696216b7fb6aa77f59e073d54f" title="MapNode::getTileID" alt="" coords="1833,1183,1980,1209"/>
+<area shape="rect" id="node22" href="$class_ui_element.html#a6457f52bdf8153c13d03a95b0f8ab770" title="Get the uiElements tooltip text Get the tooltip text for this ui element. Tooltip is shown when hover..." alt="" coords="1289,1233,1483,1260"/>
+<area shape="rect" id="node24" href="$class_ui_element.html#af2070f9bea7917cfeab7dfde124af89b" title="Set the Action Parameter of the UI Element. Sets the Parameter of the action the UI Element should ex..." alt="" coords="1275,575,1497,601"/>
+<area shape="rect" id="node25" href="$class_button.html#acfeb33328b356d4fda989808888f81db" title="Button::onMouseButtonUp" alt="" coords="1552,549,1744,576"/>
+<area shape="rect" id="node26" href="$class_button.html#a407ed56d8e7936c774e469bd3a732f94" title="Button::onMouseButtonDown" alt="" coords="1281,625,1491,652"/>
+<area shape="rect" id="node27" href="$class_button.html#af890652b6918d511cae071f9982c5f2b" title="Button::onMouseEnter" alt="" coords="1303,676,1469,703"/>
+<area shape="rect" id="node28" href="$class_button.html#a30125723c03d6f675c1ecdbfe2b6d265" title="Button::onMouseLeave" alt="" coords="1301,727,1471,753"/>
+<area shape="rect" id="node29" href="$class_button.html#a25f11ea415fdbb64cb897421bf746918" title="Button::setCheckState" alt="" coords="1303,473,1469,500"/>
+<area shape="rect" id="node35" href="$class_checkbox.html#ae58c2c6329459ca23d025f1761c0c78e" title="Checkbox::onMouseButtonUp" alt="" coords="1281,777,1491,804"/>
+<area shape="rect" id="node36" href="$class_checkbox.html#a77988b3bf139576b2d33ce755c6bbca5" title="Checkbox::onMouseButtonDown" alt="" coords="1272,828,1500,855"/>
+<area shape="rect" id="node37" href="$class_checkbox.html#ae54b2346527479a073493ececaaef099" title="Checkbox::onMouseEnter" alt="" coords="1294,879,1478,905"/>
+<area shape="rect" id="node38" href="$class_checkbox.html#a304b657ec5d71ba0a344c4ffc3279d2f" title="Checkbox::onMouseLeave" alt="" coords="1292,929,1480,956"/>
+<area shape="rect" id="node39" href="$class_combo_box.html#af0d53d01cb6d97f6dec54647721d125e" title="ComboBox::onMouseButtonUp" alt="" coords="1277,980,1495,1007"/>
+<area shape="rect" id="node40" href="$class_combo_box.html#a132276aba4ff900343458e81f318fd74" title="ComboBox::onMouseButtonDown" alt="" coords="1268,1031,1504,1057"/>
+<area shape="rect" id="node41" href="$class_combo_box.html#a55112fe7f702cca98660f87fb231eb95" title="ComboBox::onMouseLeave" alt="" coords="1288,1081,1484,1108"/>
+<area shape="rect" id="node42" href="$class_combo_box.html#a9e34bb39454d682c02e434bcc0aa99a4" title="ComboBox::onMouseMove" alt="" coords="1290,1132,1482,1159"/>
+<area shape="rect" id="node30" href="$class_button_group.html#a295239eeae8b6c52735fe0cc7a093741" title="ButtonGroup::onMouseButtonUp" alt="" coords="2516,460,2747,487"/>
+<area shape="rect" id="node31" href="$class_button.html#a3389abc269a157d9440b5cf3f74c55e1" title="Button::checkState" alt="" coords="1575,448,1721,475"/>
+<area shape="rect" id="node32" href="$class_u_i_manager.html#aedd9d0577af515a852425dfe414b2968" title="UIManager::init" alt="" coords="2084,397,2203,424"/>
+<area shape="rect" id="node34" href="$class_u_i_manager.html#aae5af90383409dfe683f3b6e355f17cb" title="UIManager::toggleGroupVisibility" alt="" coords="1792,397,2021,424"/>
+<area shape="rect" id="node33" href="$class_u_i_manager.html#a08fb1bfd975036ddbc277166560d243d" title="Retrieves instance of Singleton class UI Manager. " alt="" coords="2290,423,2443,449"/>
+</map>

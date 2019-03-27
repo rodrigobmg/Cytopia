@@ -1,0 +1,9 @@
+<map id="Button::checkState" name="Button::checkState">
+<area shape="rect" id="node2" href="$class_u_i_manager.html#aedd9d0577af515a852425dfe414b2968" title="UIManager::init" alt="" coords="476,107,595,133"/>
+<area shape="rect" id="node7" href="$class_u_i_manager.html#aae5af90383409dfe683f3b6e355f17cb" title="UIManager::toggleGroupVisibility" alt="" coords="199,56,428,83"/>
+<area shape="rect" id="node3" href="$class_u_i_manager.html#a08fb1bfd975036ddbc277166560d243d" title="Retrieves instance of Singleton class UI Manager. " alt="" coords="667,5,821,32"/>
+<area shape="rect" id="node5" href="$game_8hxx.html#a13a43e6d814de94978c515cb084873b1" title="run" alt="" coords="987,56,1030,83"/>
+<area shape="rect" id="node4" href="$class_button_group.html#a295239eeae8b6c52735fe0cc7a093741" title="ButtonGroup::onMouseButtonUp" alt="" coords="893,5,1124,32"/>
+<area shape="rect" id="node6" href="$main_8cxx.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="1172,56,1227,83"/>
+<area shape="rect" id="node8" href="$class_event_manager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="643,56,845,83"/>
+</map>

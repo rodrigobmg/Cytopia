@@ -1,0 +1,5 @@
+<map id="UIManager::getUiElementsOfGroup" name="UIManager::getUiElementsOfGroup">
+<area shape="rect" id="node2" href="$class_u_i_manager.html#a295c98eea52a38b651853b2d069fdeee" title="UIManager::getUiElementByID" alt="" coords="247,5,461,32"/>
+<area shape="rect" id="node3" href="$class_u_i_manager.html#a3cde1f5a7cdce408f9a64739345a8a89" title="UIManager::startTooltip" alt="" coords="269,56,439,83"/>
+<area shape="rect" id="node4" href="$class_u_i_manager.html#acce71ad46e077f3640ed957399c9dee6" title="UIManager::stopTooltip" alt="" coords="271,107,437,133"/>
+</map>

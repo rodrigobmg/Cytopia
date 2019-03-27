@@ -1,0 +1,4 @@
+<map id="Engine::saveGame" name="Engine::saveGame">
+<area shape="rect" id="node2" href="$class_map.html#ae48ef4fa6a6f73d886211bca59123151" title="Map::saveMapToFile" alt="" coords="196,5,343,32"/>
+<area shape="rect" id="node3" href="$compression_8hxx.html#a2b136078ca5d23222e9c24092a9918fa" title="Compress a given string with zlib Compress the given string. Returns an empty string if something wen..." alt="" coords="391,5,513,32"/>
+</map>

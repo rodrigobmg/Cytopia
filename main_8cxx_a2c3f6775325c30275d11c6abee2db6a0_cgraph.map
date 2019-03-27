@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$main_8cxx.html#ab3e7cc706c522b3231f9156bba461436" title="initialize" alt="" coords="113,1480,186,1507"/>
+<area shape="rect" id="node3" href="$game_8cxx.html#a13a43e6d814de94978c515cb084873b1" title="run" alt="" coords="128,1531,171,1557"/>
+<area shape="rect" id="node50" href="$main_8cxx.html#a7861ee1569802186a619778efc85af13" title="shutdown" alt="" coords="108,1581,191,1608"/>
+<area shape="rect" id="node4" href="$class_window_manager.html#a18bfae3e2d227c6a673fd5299abc9c4e" title="Retrieves instance of Singleton class WindowManager. " alt="" coords="1045,579,1231,605"/>
+<area shape="rect" id="node10" href="$class_window_manager.html#a2c3864d9a5b567c83b4799d97b38383a" title="WindowManager::setWindow\lTitle" alt="" coords="1293,513,1493,554"/>
+<area shape="rect" id="node11" href="$class_timer.html#a3a8b5272198d029779dc9302a54305a8" title="Start / Reset the timer Starts or restarts the timer. If the timer is already running, it will be stopped and restarted. " alt="" coords="549,1592,645,1619"/>
+<area shape="rect" id="node12" href="$class_engine.html#a8f2ddf432ebcefaac2334d8c244f8a0c" title="Retrieves instance of Singleton class Engine. " alt="" coords="1075,1221,1201,1248"/>
+<area shape="rect" id="node14" href="$class_timer.html#a5fd65dd710c8229cb24d02f761a0b15f" title="get elapsed time Returns the time in milliseconds, that has passed since the timer was started..." alt="" coords="513,1643,681,1669"/>
+<area shape="rect" id="node15" href="$class_camera.html#af29da768f8948f3afbf0a9b43530eb1d" title="Centers camera on the middle of the map Centers the camera on the middle of the map. " alt="" coords="491,1475,703,1517"/>
+<area shape="rect" id="node19" href="$class_u_i_manager.html#a08fb1bfd975036ddbc277166560d243d" title="Retrieves instance of Singleton class UI Manager. " alt="" coords="263,220,417,247"/>
+<area shape="rect" id="node20" href="$class_u_i_manager.html#aedd9d0577af515a852425dfe414b2968" title="UIManager::init" alt="" coords="538,259,657,285"/>
+<area shape="rect" id="node28" href="$class_u_i_manager.html#ad2b90c4bbfd0648a62a412f04418ac8e" title="UIManager::drawUI" alt="" coords="526,107,669,133"/>
+<area shape="rect" id="node29" href="$class_audio_mixer.html#ada9dfaaa82dcef56f291d80620f4208c" title="AudioMixer::playMusic" alt="" coords="259,1795,421,1821"/>
+<area shape="rect" id="node30" href="$class_engine.html#aea675ef41cb42dc56cb8d0d4e438dffb" title="Engine::isGameRunning" alt="" coords="254,1845,426,1872"/>
+<area shape="rect" id="node31" href="$class_event_manager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="239,1019,441,1045"/>
+<area shape="rect" id="node39" href="$class_u_i_manager.html#af50a21a5d5c01979f13f83346fe1ae1e" title="UIManager::setFPSCounterText" alt="" coords="759,1617,977,1644"/>
+<area shape="rect" id="node49" href="$class_map.html#af31da75a16a46cb79c32d821e2c2163e" title="Map::renderMap" alt="" coords="277,1896,403,1923"/>
+<area shape="rect" id="node5" href="$class_window_manager.html#a1bf841d5cb5444174c480de5f3ca368d" title="WindowManager::operator=" alt="" coords="1294,579,1493,605"/>
+<area shape="rect" id="node6" href="$class_window_manager.html#a9469bbac86049d97b179a9359425345f" title="WindowManager::toggleFull\lScreen" alt="" coords="1297,630,1490,671"/>
+<area shape="rect" id="node7" href="$class_settings.html#a98b502cde702826dd5a53f5941d54959" title="Retrieves instance of Singleton class Settings. " alt="" coords="1541,841,1679,868"/>
+<area shape="rect" id="node8" href="$class_settings.html#ab7169a6eefce79566dd07db3b1e5e967" title="Settings::Settings" alt="" coords="1732,816,1868,843"/>
+<area shape="rect" id="node9" href="$class_settings.html#a85757af9157689d156bc1516380c76c9" title="Settings::~Settings" alt="" coords="1727,867,1873,893"/>
+<area shape="rect" id="node13" href="$class_engine.html#a4759ed80f80add5731a7720d9666de56" title="Engine::operator=" alt="" coords="1324,1221,1463,1248"/>
+<area shape="rect" id="node16" href="$class_camera.html#adfb240823ff20b97b69459490dbd8dc3" title="Centers camera on given isometric coordinates Centers the camera on the given isometric coordinates..." alt="" coords="759,1120,977,1147"/>
+<area shape="rect" id="node17" href="$iso_math_8cxx.html#abef3481b8248d064e79f9d0b2a27cfe7" title="Check if given coordinates are within map boundaries Checks if coordinates are within map boundaries..." alt="" coords="1037,841,1239,868"/>
+<area shape="rect" id="node18" href="$class_map.html#ab69938ac0e56eb0da1d1701221f3d185" title="Map::refresh" alt="" coords="1087,1297,1189,1324"/>
+<area shape="rect" id="node26" href="$class_u_i_manager.html#aae5af90383409dfe683f3b6e355f17cb" title="UIManager::toggleGroupVisibility" alt="" coords="753,5,983,32"/>
+<area shape="rect" id="node21" href="$class_ui_element.html#a68a1056fd63ee1a2f0ae0c7ae986d36b" title="UiElement::getUiElementData" alt="" coords="1031,120,1245,147"/>
+<area shape="rect" id="node22" href="$class_button.html#a3389abc269a157d9440b5cf3f74c55e1" title="Button::checkState" alt="" coords="1065,31,1211,57"/>
+<area shape="rect" id="node23" href="$namespace_signal.html#a6e0df6c5db8c544e147a57b4d89171ca" title="This function creates a std::function by binding object to the member function pointer method..." alt="" coords="822,107,914,133"/>
+<area shape="rect" id="node24" href="$class_engine.html#a0ba57971ffb5173ecc425461f65a4cd8" title="Engine::quitGame" alt="" coords="800,360,936,387"/>
+<area shape="rect" id="node25" href="$class_engine.html#a83b7dbeee899b36a13d5b07c7ad87ebc" title="Loads a saved game Loads a saved Game. " alt="" coords="1069,360,1207,387"/>
+<area shape="rect" id="node27" href="$class_engine.html#af7de8d74b0cfacaf06df53e7caf11538" title="Engine::saveGame" alt="" coords="797,259,939,285"/>
+<area shape="rect" id="node32" href="$class_engine.html#a1261654b687459f800f1a71b2186eef5" title="Toggle Drawing Layer Toggle Drawing Layer (use bitwise XOR to toggle layer) " alt="" coords="523,968,671,995"/>
+<area shape="rect" id="node33" href="$class_engine.html#a2563e43f253f9de4c55544feba416518" title="Increase Height Increases the height of the given map node Calls the according function of the Map ob..." alt="" coords="783,1019,953,1045"/>
+<area shape="rect" id="node34" href="$class_engine.html#a64d67ab7a504b26fb7f7efca7abf3968" title="Decrease Height Decreases the height of the given map node Calls the according function of the Map ob..." alt="" coords="781,867,955,893"/>
+<area shape="rect" id="node35" href="$class_engine.html#aed0b02ad4a43a8fc71b4084a2b45b612" title="Engine::toggleFullScreen" alt="" coords="779,621,957,648"/>
+<area shape="rect" id="node36" href="$class_engine.html#ae4525c96c7368290552009829b09948e" title="Engine::setTileIDOfNode" alt="" coords="781,917,955,944"/>
+<area shape="rect" id="node37" href="$class_engine.html#a8ea1dc4f854268d57992b60e0fe70e02" title="Engine::demolishNode" alt="" coords="785,968,951,995"/>
+<area shape="rect" id="node38" href="$class_u_i_manager.html#adc4fc26d57014ef94c8ad4e875dbf732" title="UIManager::toggleDebugMenu" alt="" coords="489,1541,705,1568"/>
+<area shape="rect" id="node40" href="$iso_math_8cxx.html#ad3c5f070c4a876bc6e8978635d02ce52" title="converts screen space coordinates to isometric space coordinates. To convert screen coordinates in to..." alt="" coords="757,1373,979,1400"/>
+<area shape="rect" id="node41" href="$class_map.html#a5464bd287786fafc3cb1a5aea3a70bd8" title="Map::highlightNode" alt="" coords="525,613,670,640"/>
+<area shape="rect" id="node42" href="$class_camera.html#a0a8ee04ccb4f4cc9af52a964cf225f66" title="Camera::increaseZoomLevel" alt="" coords="494,1120,701,1147"/>
+<area shape="rect" id="node43" href="$class_camera.html#aeea39f352d5873495dea6f376cf3207e" title="Camera::decreaseZoomLevel" alt="" coords="491,1323,703,1349"/>
+<area shape="rect" id="node44" href="$namespaceutils.html#a36536812767e08111caf7ad382071e14" title="Helper function for Reverse template because c++11 does not support template deduction. " alt="" coords="521,664,674,691"/>
+<area shape="rect" id="node45" href="$class_ui_element.html#a15ce008dd4e61acd5357f01cfb1987f4" title="UiElement::onMouseLeave" alt="" coords="501,715,693,741"/>
+<area shape="rect" id="node46" href="$class_ui_element.html#a1c4939d543a9ba7e1f7e4e217828d9c3" title="UiElement::onMouseMove" alt="" coords="503,816,691,843"/>
+<area shape="rect" id="node47" href="$class_u_i_manager.html#a3cde1f5a7cdce408f9a64739345a8a89" title="UIManager::startTooltip" alt="" coords="513,1171,682,1197"/>
+<area shape="rect" id="node48" href="$class_u_i_manager.html#acce71ad46e077f3640ed957399c9dee6" title="UIManager::stopTooltip" alt="" coords="514,1221,681,1248"/>
+</map>
